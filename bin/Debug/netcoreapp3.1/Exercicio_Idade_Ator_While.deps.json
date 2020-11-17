@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio_Idade_Ator_While/1.0.0": {
+        "runtime": {
+          "Exercicio_Idade_Ator_While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Idade_Ator_While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
